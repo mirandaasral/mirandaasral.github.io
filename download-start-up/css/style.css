@@ -1,0 +1,17 @@
+body{
+    background-color: pink
+}
+html {
+    font-family: sans-serif
+}
+
+
+
+/* Mobile
+-------------------------------------------------- */
+
+@media screen and (max-width: 650px) {
+
+  
+} 
+
