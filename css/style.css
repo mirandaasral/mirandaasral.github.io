@@ -1,10 +1,15 @@
-body{
-    background-color: pink
-}
+
 html {
-
+    box-sizing: border-box; 
+    font-size: 16px; 
 }
-
+body{
+    margin: 1rem; 
+    font-family: sans-serif; 
+    line-height: 1.5; 
+    color: black; 
+    background-color: pink; 
+}
 
 
 /* Mobile
